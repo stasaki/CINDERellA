@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to CINDERellA!
 
-You can use the [editor on GitHub](https://github.com/stasaki/CINDERellA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this project is to enable you to run causal Bayesian networks that accurately predict up and downstream genes and entire regulatory networks on the basis of gene expression or gene expression+genetics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can read more about methods included in this toolbox in [this paper in Genetics](http://www.genetics.org/content/early/2015/01/28/genetics.114.172619.full.pdf+html) where we compare their performance across ~14,000 realistic networks.
 
 ### Markdown
 
