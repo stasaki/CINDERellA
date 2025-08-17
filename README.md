@@ -2,7 +2,7 @@
 
 The goal of this project is to enable you to run causal Bayesian networks that accurately predict up and downstream genes and entire regulatory networks on the basis of gene expression or gene expression+genetics.
 
-You can read more about methods included in this toolbox in [this paper in Genetics](http://www.genetics.org/content/early/2015/01/28/genetics.114.172619.full.pdf+html) where we compare their performance across ~14,000 realistic networks.
+You can read more about methods included in this toolbox in [this paper in Genetics](https://academic.oup.com/genetics/article/199/4/973/5935869) where we compare their performance across ~14,000 realistic networks.
 
 <img src="https://raw.githubusercontent.com/stasaki/CINDERellA/master/img/fig1.jpg" width="80%">
 <img src="https://raw.githubusercontent.com/stasaki/CINDERellA/master/img/fig2.jpg" width="50%">
@@ -180,7 +180,7 @@ edgefrq = sparse(edgefrq_data(:,1), edgefrq_data(:,2), edgefrq_data(:,3), nGenes
 
 If you use CINDERellA in your research, please cite:
 
-Tasaki, S., Sauerwine, B., Hoff, B., Toyoshiba, H., Gaiteri, C., & Chaibub Neto, E. (2015). Bayesian network reconstruction using systems genetics data: comparison of MCMC methods. *Genetics*, 199(4), 973-989. [doi:10.1534/genetics.114.172619](http://www.genetics.org/content/early/2015/01/28/genetics.114.172619.full.pdf+html)
+Tasaki, S., Sauerwine, B., Hoff, B., Toyoshiba, H., Gaiteri, C., & Chaibub Neto, E. (2015). Bayesian network reconstruction using systems genetics data: comparison of MCMC methods. *Genetics*, 199(4), 973-989. [doi:10.1534/genetics.114.172619](https://academic.oup.com/genetics/article/199/4/973/5935869)
 
 **Author**: Shinya Tasaki, Ph.D. (stasaki@gmail.com)  
 **License**: 3-clause BSD License
